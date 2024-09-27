@@ -1,4 +1,4 @@
-nacos/nacos-server:latest
+nacos/nacos-server:1.4.2
 mysql:5.7
 rabbitmq:management
 redis:latest
