@@ -3,3 +3,4 @@ mysql:5.7
 rabbitmq:management
 redis:latest
 openzipkin/zipkin
+nacos/nacos-server:2.2.0
