@@ -1,1 +1,5 @@
 nacos/nacos-server:latest
+mysql:5.7
+rabbitmq:management
+redis:latest
+openzipkin/zipkin
