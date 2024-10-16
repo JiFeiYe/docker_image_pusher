@@ -1,2 +1,3 @@
 nacos/nacos-server:v2.2.0
 elasticsearch:7.8.0
+kibana:7.8.0
