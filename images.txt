@@ -1,4 +1,4 @@
 nacos/nacos-server:v2.2.0
 elasticsearch:7.8.0
 kibana:7.8.0
-registry.rocket.chat/rocketchat/rocket.chat:${RELEASE:-latest}
+rocketchat/rocket.chat:7.0.0-rc.4
